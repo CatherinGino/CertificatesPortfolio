@@ -70,7 +70,7 @@ https://CatherinGino.github.io/CertificatesPortfolio/
 
 # 📸 Demo Screenshot
 
-[screenshot](images/screenshot.png)
+![Screenshot](images/screenshot.png)
 
 # ✨ Customization
 Change the theme colors in index.html under the :root { ... } section
