@@ -20,7 +20,7 @@ This project is a simple, elegant **certificate portfolio website** built using 
 ---
 
 ## 📂 Project Structure
-    ```bash
+
         certificates-portfolio/
         │
         ├── index.html # Main portfolio page
@@ -66,7 +66,7 @@ Go to Settings → Pages → select the main branch → /root
 
 Your site will be live at:
 
-https://your-username.github.io/CertificatesPortfolio/
+https://CatherinGino.github.io/CertificatesPortfolio/
 
 # 📸 Demo Screenshot
 
