@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Certificates Portfolio</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+    <div class="wrap">
+        <header>
+            <div class="logo">🐈‍⬛</div>
+            <div>
+                <h1>Certificates Portfolio</h1>
+                <p class="lead">
+                    Hey there~<br>
+                    These are my tiny happiness that I have collected over time. Do check them out!!!
+                </p>
+            </div>
+        </header>
+
+        <div class="controls">
+            <div class="search"><input id="q" type="search"
+                    placeholder="Search by certificate name, issuer or year..." /></div>
+            <div class="filter">
+                <select id="sort">
+                    <option value="new">Newest first</option>
+                    <option value="old">Oldest first</option>
+                    <option value="issuer">By issuer</option>
+                </select>
+            </div>
+        </div>
+
+        <div id="grid" class="grid"></div>
+
+        <footer>All rights reserved &copy; CatherinGino.</footer>
+    </div>
+
+    <div id="overlay" class="overlay" aria-hidden="true">
+        <div class="sheet" role="dialog" aria-modal="true">
+            <div class="cert-view" id="cert-area">
+                
+            </div>
+            <div class="side">
+                <button id="closeBtn" class="btn"
+                    style="background:transparent;color:var(--accent);border:1px solid var(--accent);">Close</button>
+                <h2 id="cert-title">Certificate title</h2>
+                <p class="muted" id="cert-issuer">Issuer — <span id="cert-year">2025</span></p>
+                <p id="cert-desc">Short description about the certificate, course, or achievement. Add details like
+                    score, duration, skills demonstrated.</p>
+                <p style="margin-top:12px"><a id="openRaw" class="btn" target="_blank">Open image</a> <a
+                        id="downloadBtn" class="btn"
+                        style="background:transparent;border:1px solid var(--accent);color:var(--accent);margin-left:8px;">Download</a>
+                </p>
+                <p class="muted" style="margin-top:18px">Shareable link: <code id="shareLink"
+                        style="display:block;word-break:break-all;">#</code></p>
+            </div>
+        </div>
+    </div>
+<script src="script.js"></script>
+</body>
+
+</html>
