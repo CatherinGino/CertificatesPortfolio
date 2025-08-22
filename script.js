@@ -70,7 +70,39 @@ const certificates = [
     year: 2025,
     desc: "",
     image: "images/cert9.jpg",    
-  }
+  },
+  {
+    id: "cert-10",
+    title: "Build Smarter ML with Cloud",
+    issuer: "Saras AI Institute",
+    year: 2025,
+    desc: "",
+    image: "images/cert10.png",    
+  },
+  {
+    id: "cert-11",
+    title: "Craft Your Career: Self Development and Clarity",
+    issuer: "NEXASOUL",
+    year: 2025,
+    desc: "",
+    image: "images/cert11.png",    
+  },
+  {
+    id: "cert-12",
+    title: "Full Stack Web Development Bootcamp",
+    issuer: "Google Developers Group",
+    year: 2025,
+    desc: "",
+    image: "images/cert12.png",    
+  },
+  {
+    id: "cert-13",
+    title: "Full Stack Web Development Seminar",
+    issuer: "Google Developers Group",
+    year: 2025,
+    desc: "",
+    image: "images/cert13.png",    
+  },
 ];
 
 const grid = document.getElementById("grid");
