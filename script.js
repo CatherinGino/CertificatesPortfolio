@@ -103,6 +103,14 @@ const certificates = [
     desc: "",
     image: "images/cert13.png",    
   },
+  {
+    id: "cert-14",
+    title: "Resume",
+    issuer: "Self Made",
+    year: 2025,
+    desc: "by using Canva",
+    image: "images/cert14.jpg",    
+  },
 ];
 
 const grid = document.getElementById("grid");
