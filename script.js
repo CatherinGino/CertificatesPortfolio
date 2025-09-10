@@ -151,6 +151,14 @@ const certificates = [
     desc: "",
     image: "images/cert19.png",    
   },
+  {
+    id: "cert-20",
+    title: "Agentic AI Day",
+    issuer: "Google Cloud Agentic AI Day",
+    year: 2025,
+    desc: "",
+    image: "images/cert20.png",    
+  },
   // {
   //   id: "cert-20",
   //   title: "",
