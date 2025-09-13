@@ -9,7 +9,7 @@ const certificates = [
   },
   {
     id: "cert-2",
-    title: "All India Developers Challenge",
+    title: "All India Developers Challenge: Round 2",
     issuer: "Samrat Ashok Technological Institute (SATI), Vidisha",
     year: 2025,
     desc: "Me with my team had a lot of hands of experience in the All India Developers Hackathon. We build a web application for collaborative coding and we enjoyed every bit of it, it also gave us a opportunity to learn a lot of new things for which we are extreamly grateful.",
@@ -159,7 +159,23 @@ const certificates = [
     desc: "",
     image: "images/cert20.png",    
   },
-  // {
+  {
+    id: "cert-21",
+    title: "All India Developers Challenge",
+    issuer: "Samrat Ashok Technological Institute (SATI), Vidisha",
+    year: 2025,
+    desc: "",
+    image: "images/cert21.png",    
+  },
+    {
+    id: "cert-22",
+    title: "Advanced Java Intenship",
+    issuer: "TEACHMAVEN",
+    year: 2025,
+    desc: "",
+    image: "images/cert22.png",    
+  },
+  //   {
   //   id: "cert-20",
   //   title: "",
   //   issuer: "",
