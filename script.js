@@ -175,7 +175,14 @@ const certificates = [
     desc: "",
     image: "images/cert22.png",    
   },
-  //   {
+    {
+    id: "cert-23",
+    title: "NPTEL - Introduction to IOT",
+    issuer: "NPTEL",
+    year: 2025,
+    desc: "NPTEL Course Completion Certificate for the course 'Introduction to Internet of Things (IOT)' offered by the Indian Institute of Technology (IIT) Madras. This certificate signifies the successful completion of the course, demonstrating proficiency in the fundamentals of IOT, including its architecture, protocols, and applications across various domains.",
+    image: "images/cert23.png",    
+  }, //   {
   //   id: "cert-20",
   //   title: "",
   //   issuer: "",
