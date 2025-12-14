@@ -191,7 +191,15 @@ const certificates = [
     desc: "",
     image: "images/cert24.png",    
   },
-   //   {
+     {
+    id: "cert-25",
+    title: "HackVerse",
+    issuer: "SILICON HACK CLUB",
+    year: 2025,
+    desc: "",
+    image: "images/cert25.png",    
+  },
+  //    {
   //   id: "cert-20",
   //   title: "",
   //   issuer: "",
