@@ -219,7 +219,7 @@ const certificates = [
     id: "cert-28",
     title: "NPTEL - Data Analytics with Python",
     issuer: "NPTEL",
-    year: 2025,
+    year: 2026,
     desc: "",
     image: "images/cert28.png",    
   },
