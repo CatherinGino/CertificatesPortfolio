@@ -199,6 +199,22 @@ const certificates = [
     desc: "",
     image: "images/cert25.png",    
   },
+     {
+    id: "cert-26",
+    title: "Buildathon 2025",
+    issuer: "Dreamflow",
+    year: 2025,
+    desc: "",
+    image: "images/cert26.jpeg",    
+  },
+     {
+    id: "cert-27",
+    title: "Starting a small business",
+    issuer: "HP LIFE| HP Foundation",
+    year: 2026,
+    desc: "",
+    image: "images/cert27.jpeg",    
+  },
   //    {
   //   id: "cert-20",
   //   title: "",
