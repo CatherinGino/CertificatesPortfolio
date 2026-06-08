@@ -215,7 +215,15 @@ const certificates = [
     desc: "",
     image: "images/cert27.jpeg",    
   },
-  //    {
+     {
+    id: "cert-28",
+    title: "NPTEL - Data Analytics with Python",
+    issuer: "NPTEL",
+    year: 2025,
+    desc: "",
+    image: "images/cert28.png",    
+  },
+    //    {
   //   id: "cert-20",
   //   title: "",
   //   issuer: "",
